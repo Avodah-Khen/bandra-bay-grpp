@@ -1,0 +1,20 @@
+# ── dependencies ──────────────────────
+node_modules/
+**/node_modules/
+
+# ── build output ──────────────────────
+dist/
+**/dist/
+build/
+**/build/
+
+# ── secrets — NEVER commit ────────────
+.env
+**/.env
+.env.local
+.env.production
+
+# ── OS / editor ───────────────────────
+# .DS_Store
+# Thumbs.db
+# *.log
