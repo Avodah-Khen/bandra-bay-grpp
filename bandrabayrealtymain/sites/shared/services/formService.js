@@ -8,7 +8,7 @@ export const submitToGoogleForm = async (form, config) => {
   });
 //kmlsdksldnvsnfalkvparjvnapvnarvirnvwruvnvunwgvugnrgiownwoivgnwvowrngvwr
   ///JUST THE CHECKING SOMETHING OYOYOYOYslmsdkmvsmv;svm
-
+//nvsknvaklerknareav u can delets this 
   ///yoyoyoyoyoy
   await fetch(config.url, {
     method: "POST",
