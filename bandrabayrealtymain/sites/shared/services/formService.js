@@ -10,6 +10,9 @@ export const submitToGoogleForm = async (form, config) => {
   ///JUST THE CHECKING SOMETHING OYOYOYOYslmsdkmvsmv;svm
 //nvsknvaklerknareav u can delets this 
   ///yoyoyoyoyoy
+
+
+  //lord jesus please help me
   await fetch(config.url, {
     method: "POST",
     mode: "no-cors",
