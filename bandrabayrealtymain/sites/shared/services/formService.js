@@ -7,6 +7,8 @@ export const submitToGoogleForm = async (form, config) => {
     formData.append(id, form[key]);
   });
 
+  ///JUST THE CHECKING SOMETHING OYOYOYOY
+
   ///yoyoyoyoyoy
   await fetch(config.url, {
     method: "POST",
