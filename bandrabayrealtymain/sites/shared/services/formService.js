@@ -6,7 +6,7 @@ export const submitToGoogleForm = async (form, config) => {
   Object.entries(config.fields).forEach(([key, id]) => {
     formData.append(id, form[key]);
   });
-
+//kmlsdksldnvsnfalkvparjvnapvnarvirnvwruvnvunwgvugnrgiownwoivgnwvowrngvwr
   ///JUST THE CHECKING SOMETHING OYOYOYOYslmsdkmvsmv;svm
 
   ///yoyoyoyoyoy
